@@ -26,7 +26,7 @@ Sales analytics for Amazon marketplace using Azure Databricks and PySpark.
 
 - Azure Databricks
 - PySpark
-- Apache Iceberg
+- Delta Lake
 - Unity Catalog
 
 ## Setup
